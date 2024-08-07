@@ -30,6 +30,5 @@ A WooCommerce extension to accept CSV files and match transactions with WooComme
 -   WooCommerce
 -   PHP 7+ (recommended)
 
-## Contribute
-
-I welcome contributions
+---
+*This README was written by OpenAI ChatGPT 4o.*
